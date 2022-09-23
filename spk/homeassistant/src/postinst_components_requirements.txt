@@ -107,7 +107,7 @@ pi1wire==0.1.0
 pkce==1.0.3
 platformdirs==2.4.0
 plumbum==1.7.0
-protobuf==3.17.3
+protobuf==3.18.3
 ptyprocess==0.7.0
 pubnub==5.1.4
 py-canary==0.5.1
