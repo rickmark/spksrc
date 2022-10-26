@@ -29,7 +29,7 @@ cheetah==2.4.4
 #cryptography==2.9.2 now built as buildtime dependency
 
 # Twisted and dependencies
-twisted==20.3.0
+twisted==22.4.0
 zope.interface==5.1.0
 
 # pillow dependencies
