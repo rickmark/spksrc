@@ -1,6 +1,6 @@
 # to enforce cross-compiled versions
 setuptools==44.1.0
-wheel==0.33.6
+wheel==0.38.1
 
 alembic==1.4.2
 appdirs==1.4.3
