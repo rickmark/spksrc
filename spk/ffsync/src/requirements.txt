@@ -1,5 +1,5 @@
 # to enforce cross-compiled versions
-setuptools==44.1.0
+setuptools==65.5.1
 wheel==0.33.6
 
 alembic==1.4.2
