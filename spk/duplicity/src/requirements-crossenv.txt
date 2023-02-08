@@ -30,7 +30,7 @@
 #duplicity==0.8.19
 
 cffi==1.15.0
-cryptography==3.3.2
+cryptography==39.0.1
 # gdata                          ; python_version == '2.7'
 iso8601==0.1.14
 #jeepney==0.7.1                  ### cross compile wheel fails to find flit_core
