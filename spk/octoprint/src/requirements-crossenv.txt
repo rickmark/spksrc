@@ -7,5 +7,5 @@ psutil==5.8.0
 PyYAML==5.4.1
 regex==2021.10.23
 tornado==6.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wrapt==1.12.1
