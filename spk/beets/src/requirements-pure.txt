@@ -37,7 +37,7 @@ Flask-Cors==3.0.8
 Click==7.0
 itsdangerous==1.1.0
 Jinja2==2.11.1
-Werkzeug==1.0.0
+Werkzeug==2.2.3
 
 # For gmusic plugin 
 # Despite installing following wheels 'google' is not found at runtime
